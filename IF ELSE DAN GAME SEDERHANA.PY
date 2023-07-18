@@ -52,4 +52,5 @@ if pertanyaan=="8":
     print("kamu pintarr!!!!")
 else:
     print("Sayang sekali salah")
+print(5*"=","INI SOAL BAHASA INDONESIA","="*5)
 print("selamat kamu menyelesaikan quizz!!!!!")
